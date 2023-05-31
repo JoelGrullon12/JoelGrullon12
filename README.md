@@ -6,10 +6,10 @@
 ### <div align="center">I'm Joel Grullon, a full-time backend developer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
-- 🔭 I’m currently working on [Carbnb](https://github.com/JoelGrullon12/carbnb)  
+- 🔭 I’m currently working on [Happy Feets](https://github.com/D-Rose04/f_project)
   
 
-- 🌱 I’m currently learning Flutter and Angular  
+- 🌱 I’m currently learning React and Firebase  
   
 
 - ❓ Ask me about ASP.NET Core and related  
