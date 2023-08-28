@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Happy Feets](https://github.com/D-Rose04/f_project)
   
 
-- 🌱 I’m currently learning React and Firebase  
+- 🌱 I’m currently learning Angular
   
 
 - ❓ Ask me about ASP.NET Core and related  
