@@ -1,7 +1,7 @@
 ### <div align="center">I'm Joel Grullon, a full-time full-stack developer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
-- 🔭 I’m currently working on [Church Members]([https://github.com/D-Rose04/f_project/](https://github.com/JoelGrullon12/church-members))  
+- 🔭 I’m currently working on [Church Members](https://github.com/JoelGrullon12/church-members) 
   
 
 - 🌱 I’m currently learning Angular  
